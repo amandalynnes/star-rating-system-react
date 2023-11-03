@@ -1,12 +1,21 @@
+.title {
+  display: flex;
+  margin: 1em;
+  justify-content: center;
+  font-size: 5em;
+  font-family: Didot;
+
+
+}
 
 .star-rating {
   display: flex;
-  margin: 10em;
+  margin: 5em;
   justify-content: center;
 }
 
 .star-rating .star {
-  font-size: 3em;
+  font-size: 5em;
 }
 
 button {
