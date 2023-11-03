@@ -1,4 +1,14 @@
 
+.star-rating {
+  display: flex;
+  margin: 10em;
+  justify-content: center;
+}
+
+.star-rating .star {
+  font-size: 3em;
+}
+
 button {
   background-color: transparent;
   border: none;
@@ -7,9 +17,9 @@ button {
 }
 
 .on {
-  color: #000;
+  color: gold;
 }
 
 .off {
-  color: #ccc;
+  color: whitesmoke;
 }
