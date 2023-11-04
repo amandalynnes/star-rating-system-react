@@ -4,7 +4,7 @@ import "./App.css";
 const App = () => {
   return (
     <div className="App">
-      <p className="title">Star Rating System</p>
+      <h1 className="title">Star Rating System</h1>
       <StarRating />
     </div>
   );
